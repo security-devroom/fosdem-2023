@@ -19,7 +19,7 @@ include:
 ### Organizers
 
   * You! - any help with organizing is highly appreciated!
-  * Jakub Jelen
+  * Jakub Jelen (jjelen@redhat.com)
   * Tomas Mraz
   * Nikos Mavrogiannopoulos
   * Martin Paljak
