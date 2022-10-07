@@ -21,7 +21,7 @@ include:
   * You! - any help with organizing is highly appreciated!
   * Jakub Jelen (jjelen@redhat.com)
   * Tomas Mraz
-  * Nikos Mavrogiannopoulos
+  * Nikos Mavrogiannopoulos (nmavrogiannopoulos@tuxcare.com)
   * Martin Paljak
   * Simon Josefsson (simon@josefsson.org)
 
