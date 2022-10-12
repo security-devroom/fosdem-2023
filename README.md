@@ -7,7 +7,7 @@ devroom, and this repository is used for planning it.
 
 This is the Security Devroom and we invite you to submit a talk that
 is relevant to security in the free software and open source world.
-We don't exclude any relevant submittions, but some suggested topics
+We don't exclude any relevant submission, but some suggested topics
 include:
 
 - Supply chain security: Trust and verifiability
