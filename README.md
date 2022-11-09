@@ -1,9 +1,11 @@
 # Security Devroom @ FOSDEM'2023
 
-[FOSDEM 2023](https://fosdem.org/2023/) will hopefully have a security
-devroom, and this repository is used for planning it.
+[FOSDEM 2023](https://fosdem.org/2023/) will have a [security
+devroom](https://fosdem.org/2023/schedule/track/security/), and this
+repository is used for planning it.
 
-The security devroom is planned for the whole **Saturday, February 4th, 2023** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The security devroom is planned for the whole **Saturday, February
+4th, 2023** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
 ## Our topics this year
 
@@ -40,7 +42,7 @@ Instructions:
   * Tomas Mraz
   * Nikos Mavrogiannopoulos (nmavrogiannopoulos@tuxcare.com)
   * Martin Paljak
-  * Simon Josefsson (simon@josefsson.org)
+  * Simon Josefsson Email: simon@josefsson.org Mastodon: [@jas4711](https://infosec.exchange/web/@jas4711)
 
 ### Contact
 
