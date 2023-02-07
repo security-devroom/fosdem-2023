@@ -41,7 +41,7 @@ Instructions:
   * Jakub Jelen (jjelen@redhat.com)
   * Tomas Mraz
   * Nikos Mavrogiannopoulos (nmavrogiannopoulos@tuxcare.com)
-  * Martin Paljak
+  * Martin Paljak [@martinpaljak](https://github.com/martinpaljak)
   * Simon Josefsson Email: simon@josefsson.org Mastodon: [@jas4711](https://infosec.exchange/web/@jas4711)
 
 ### Contact
